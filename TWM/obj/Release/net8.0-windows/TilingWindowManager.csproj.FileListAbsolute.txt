@@ -1,0 +1,48 @@
+C:\Users\Jim\Desktop\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.exe
+C:\Users\Jim\Desktop\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.deps.json
+C:\Users\Jim\Desktop\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.runtimeconfig.json
+C:\Users\Jim\Desktop\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.pdb
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\Tiling Window Manager_MarkupCompile.cache
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.AssemblyInfo.cs
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\refint\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\Tiling Window Manager.pdb
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.genruntimeconfig.cache
+C:\Users\Jim\Desktop\Tilling Window Manger\obj\Release\net8.0-windows\ref\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.exe
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.deps.json
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.runtimeconfig.json
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\bin\Release\net8.0-windows\Tiling Window Manager.pdb
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\Tiling Window Manager_MarkupCompile.cache
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.AssemblyInfo.cs
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\refint\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\Tiling Window Manager.pdb
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\TilingWindowManager.genruntimeconfig.cache
+C:\Users\Jim\Desktop\Window Manager\Tilling Window Manger\obj\Release\net8.0-windows\ref\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\bin\Release\net8.0-windows\Tiling Window Manager.exe
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\bin\Release\net8.0-windows\Tiling Window Manager.deps.json
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\bin\Release\net8.0-windows\Tiling Window Manager.runtimeconfig.json
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\bin\Release\net8.0-windows\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\bin\Release\net8.0-windows\Tiling Window Manager.pdb
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\App.g.cs
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\Tiling Window Manager_MarkupCompile.cache
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\TilingWindowManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\TilingWindowManager.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\TilingWindowManager.AssemblyInfo.cs
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\TilingWindowManager.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\refint\Tiling Window Manager.dll
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\Tiling Window Manager.pdb
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\TilingWindowManager.genruntimeconfig.cache
+C:\Users\Jim\Desktop\TWM (Tilling Window Manager)\obj\Release\net8.0-windows\ref\Tiling Window Manager.dll

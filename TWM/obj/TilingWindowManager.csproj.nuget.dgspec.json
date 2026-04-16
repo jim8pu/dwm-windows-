@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jim\\Desktop\\TWM (Tilling Window Manager)\\TilingWindowManager.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jim\\Desktop\\TWM (Tilling Window Manager)\\TilingWindowManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jim\\Desktop\\TWM (Tilling Window Manager)\\TilingWindowManager.csproj",
+        "projectName": "Tiling Window Manager",
+        "projectPath": "C:\\Users\\Jim\\Desktop\\TWM (Tilling Window Manager)\\TilingWindowManager.csproj",
+        "packagesPath": "C:\\Users\\Jim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jim\\Desktop\\TWM (Tilling Window Manager)\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jim\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.419/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
