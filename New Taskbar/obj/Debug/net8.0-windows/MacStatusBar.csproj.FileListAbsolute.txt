@@ -1,0 +1,72 @@
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfo.cs
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\MacStatusBar.exe
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\MacStatusBar.deps.json
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\MacStatusBar.runtimeconfig.json
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jim\Desktop\WayWinBar\Prototype\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatu.CCC8C7C2.Up2Date
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\refint\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\MacStatusBar.genruntimeconfig.cache
+C:\Users\Jim\Desktop\WayWinBar\Prototype\obj\Debug\net8.0-windows\ref\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\MacStatusBar.exe
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\MacStatusBar.deps.json
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\MacStatusBar.runtimeconfig.json
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jim\Desktop\WayWinBar\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfo.cs
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatu.CCC8C7C2.Up2Date
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\refint\MacStatusBar.dll
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\MacStatusBar.genruntimeconfig.cache
+C:\Users\Jim\Desktop\WayWinBar\obj\Debug\net8.0-windows\ref\MacStatusBar.dll
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\MacStatusBar.exe
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\MacStatusBar.deps.json
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\MacStatusBar.runtimeconfig.json
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfo.cs
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatu.CCC8C7C2.Up2Date
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\refint\MacStatusBar.dll
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\MacStatusBar.genruntimeconfig.cache
+C:\Users\Jim\Desktop\Better-taskbar-for-windows--main\obj\Debug\net8.0-windows\ref\MacStatusBar.dll
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\MacStatusBar.exe
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\MacStatusBar.deps.json
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\MacStatusBar.runtimeconfig.json
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.csproj.AssemblyReference.cache
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.AssemblyInfo.cs
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatu.CCC8C7C2.Up2Date
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.dll
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\refint\MacStatusBar.dll
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.pdb
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\MacStatusBar.genruntimeconfig.cache
+C:\Users\Jim\Desktop\Task bar project\Status menu bar (my project)\obj\Debug\net8.0-windows\ref\MacStatusBar.dll

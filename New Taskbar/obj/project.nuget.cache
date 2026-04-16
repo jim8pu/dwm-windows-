@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qMtLcy+thBI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jim\\Desktop\\Task bar project\\Status menu bar (my project)\\MacStatusBar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jim\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jim\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jim\\.nuget\\packages\\system.drawing.common\\8.0.0\\system.drawing.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\Jim\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
